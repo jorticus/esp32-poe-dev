@@ -1,0 +1,9 @@
+*-rescue.*
+*.*-bak
+*-cache.*
+*-backups/
+*.bak
+
+# Legacy project files
+*.pro
+*.sch
