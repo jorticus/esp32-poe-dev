@@ -120,7 +120,9 @@
       },
       "track_widths": [
         0.0,
-        0.2
+        0.2,
+        0.3,
+        0.4
       ],
       "via_dimensions": [
         {
@@ -364,9 +366,9 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.2,
+        "via_diameter": 0.5,
+        "via_drill": 0.3,
         "wire_width": 6.0
       },
       {
@@ -435,26 +437,17 @@
           "/U0TXD",
           "/VDD3P3",
           "/VDD_SDIO",
-          "/VIN",
           "/XTAL_N",
           "/XTAL_P",
           "GND",
           "Net-(C20-Pad1)",
-          "Net-(C20-Pad2)",
-          "Net-(J1-Pad2)",
-          "Net-(J1-Pad3)",
-          "Net-(J4-Pad1)",
-          "Net-(Q1-Pad1)",
           "Net-(Q1-Pad2)",
-          "Net-(Q1-Pad3)",
           "Net-(Q2-Pad3)",
           "Net-(R19-Pad1)",
           "Net-(R21-Pad1)",
           "Net-(R22-Pad2)",
           "Net-(R4-Pad2)",
-          "Net-(R6-Pad2)",
           "VBUS",
-          "VDD",
           "unconnected-(J1-Pad4)",
           "unconnected-(U4-Pad11)",
           "unconnected-(U4-Pad12)",
