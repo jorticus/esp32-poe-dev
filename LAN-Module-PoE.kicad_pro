@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -123,7 +123,8 @@
         0.2,
         0.25,
         0.3,
-        0.4
+        0.4,
+        0.8
       ],
       "via_dimensions": [
         {
@@ -384,7 +385,6 @@
         "name": "Signal",
         "nets": [
           "+3V3",
-          "/3V3",
           "/AVDD10",
           "/BOOT",
           "/CAP1",
