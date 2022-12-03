@@ -1,0 +1,33 @@
+{
+    "build": {
+      "arduino":{
+        "ldscript": "esp32_out.ld"
+      },
+      "core": "esp32",
+      "extra_flags": "-DARDUINO_ESP32_DEV -DARDUINO_USB_CDC_ON_BOOT=0 -DCORE32SOLO1 -DETH_PHY_ADDR=0 -DETH_PHY_MDC=23 -DETH_PHY_MDIO=18 -DETH_PHY_TYPE=ETH_PHY_RTL8201 -DETH_CLK_MODE=ETH_CLOCK_GPIO0_OUT",
+      "f_cpu": "240000000L",
+      "f_flash": "40000000L",
+      "flash_mode": "dio",
+      "mcu": "esp32",
+      "variant": "esp32"
+    },
+    "connectivity": [
+      "ethernet",
+      "can"
+    ],
+    "frameworks": [
+      "arduino",
+      "espidf"
+    ],
+    "name": "ViscTronics ESP32-PoE",
+    "upload": {
+      "flash_size": "4MB",
+      "maximum_ram_size": 327680,
+      "maximum_size": 4194304,
+      "require_upload_port": true,
+      "speed": 460800
+    },
+    "url": "https://jared.geek.nz",
+    "vendor": "ViscTronics"
+  }
+  
