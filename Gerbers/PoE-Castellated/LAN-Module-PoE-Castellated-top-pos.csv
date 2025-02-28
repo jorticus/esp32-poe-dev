@@ -1,0 +1,106 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100n","C_0603_1608Metric",41.000000,-73.800000,0.000000,top
+"C2","100n","C_0603_1608Metric",50.075000,-42.200000,180.000000,top
+"C3","100n","C_0603_1608Metric",31.100000,-76.200000,90.000000,top
+"C4","1u","C_0805_2012Metric",43.600000,-73.100000,90.000000,top
+"C5","10u","C_0603_1608Metric",50.900000,-49.700000,0.000000,top
+"C6","470pF","C_0603_1608Metric",32.800000,-65.500000,90.000000,top
+"C7","1u","C_0603_1608Metric",37.000000,-64.050000,180.000000,top
+"C8","100n","R_0603_1608Metric",37.925000,-45.725000,90.000000,top
+"C9","100n","C_0603_1608Metric",42.475000,-47.775000,90.000000,top
+"C10","1u","C_0603_1608Metric",38.300000,-34.000000,0.000000,top
+"C11","1u","C_0603_1608Metric",50.100000,-40.500000,180.000000,top
+"C12","22p","C_0603_1608Metric",45.500000,-49.855000,0.000000,top
+"C13","22p","C_0603_1608Metric",48.600000,-48.400000,-90.000000,top
+"C14","10u","C_0603_1608Metric",37.675000,-37.575000,-90.000000,top
+"C15","3.3n","C_0603_1608Metric",50.100000,-45.800000,180.000000,top
+"C16","10n","C_0603_1608Metric",47.075000,-44.300000,180.000000,top
+"C17","100n","C_0603_1608Metric",46.100000,-58.000000,0.000000,top
+"C18","2.2u","C_0805_2012Metric",51.300000,-60.700000,90.000000,top
+"C19","100n","C_0603_1608Metric",44.900000,-33.700000,0.000000,top
+"C20","100n","C_0603_1608Metric",33.800000,-69.100000,180.000000,top
+"C21","1u","C_0603_1608Metric",50.900000,-51.200000,180.000000,top
+"C22","100n","R_0603_1608Metric",33.570000,-56.950000,180.000000,top
+"C23","100n","C_0603_1608Metric",33.570000,-51.700000,180.000000,top
+"C24","100n","C_0603_1608Metric",44.070000,-56.200000,0.000000,top
+"C25","100n","C_0603_1608Metric",33.570000,-53.200000,180.000000,top
+"C26","100n","C_0603_1608Metric",43.970000,-51.600000,0.000000,top
+"C27","22u","C_Elec_6.3x5.4",37.062500,-63.400000,180.000000,top
+"C28","1u","C_0603_1608Metric",37.000000,-62.600000,180.000000,top
+"C29","2.2u","C_0805_2012Metric",49.500000,-60.700000,90.000000,top
+"D1","PMEG6020","D_SMA",48.230000,-73.031233,180.000000,top
+"D2","B5819W","D_SOD-123",50.000000,-57.600000,0.000000,top
+"D3","Green","LED_0603_1608Metric",52.500000,-35.100000,-90.000000,top
+"J1","HY931147C","RJ45_Wuerth_7499111446_Horizontal",36.150000,-77.031233,0.000000,top
+"J2","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-73.660000,0.000000,top
+"J3","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-38.010000,180.000000,top
+"J4","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-40.780000,180.000000,top
+"J5","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-43.320000,180.000000,top
+"J6","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-45.860000,180.000000,top
+"J7","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-48.400000,180.000000,top
+"J8","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-50.800000,180.000000,top
+"J9","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-53.340000,180.000000,top
+"J10","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-55.880000,180.000000,top
+"J11","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-58.420000,180.000000,top
+"J12","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-60.960000,180.000000,top
+"J13","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-63.500000,180.000000,top
+"J14","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-66.040000,180.000000,top
+"J15","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-63.500000,0.000000,top
+"J16","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",30.480000,-68.580000,180.000000,top
+"J17","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-38.100000,0.000000,top
+"J18","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-40.640000,0.000000,top
+"J19","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-43.180000,0.000000,top
+"J20","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-45.720000,0.000000,top
+"J21","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-48.260000,0.000000,top
+"J22","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-50.800000,0.000000,top
+"J23","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-53.340000,0.000000,top
+"J24","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-55.880000,0.000000,top
+"J25","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-58.420000,0.000000,top
+"J26","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-60.960000,0.000000,top
+"J27","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-66.040000,0.000000,top
+"J28","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-68.580000,0.000000,top
+"J29","ProtoCastellatedHeader","ProtoCastellatedHeader_65mil_Rect",53.340000,-76.260000,0.000000,top
+"L1","FB 600R@100MHz 1.3A","R_0603_1608Metric",47.075000,-42.575000,0.000000,top
+"L2","10uH 1A","L_Taiyo-Yuden_NR-40xx",50.200000,-54.200000,0.000000,top
+"L3","FB 600R@100MHz 1.3A","R_0603_1608Metric",43.970000,-53.200000,180.000000,top
+"L4","270uH","L_Taiyo-Yuden_NR-80xx_HandSoldering",47.200000,-67.200000,0.000000,top
+"LOGO1","Logo","wolfpaw-0.3",31.701123,-90.170000,180.000000,top
+"R1","10k","R_0603_1608Metric",41.400000,-34.000000,0.000000,top
+"R2","2k","R_0603_1608Metric",36.275000,-37.575000,-90.000000,top
+"R3","20K","R_0603_1608Metric",50.100000,-44.200000,180.000000,top
+"R4","510R","R_0603_1608Metric",48.100000,-35.400000,180.000000,top
+"R5","3R","R_0603_1608Metric",38.000000,-73.800000,180.000000,top
+"R6","24.3k 1%","R_0603_1608Metric",32.970000,-71.600000,90.000000,top
+"R7","DNP","R_0603_1608Metric",34.650000,-71.600000,-90.000000,top
+"R8","2.49k 1%","R_0603_1608Metric",33.570000,-55.450000,0.000000,top
+"R9","10k","R_0603_1608Metric",43.970000,-54.700000,180.000000,top
+"R10","10k","R_0603_1608Metric",36.100000,-45.700000,-90.000000,top
+"R11","10k","R_0603_1608Metric",52.600000,-80.400000,90.000000,top
+"R12","10k","R_0603_1608Metric",31.200000,-80.400000,90.000000,top
+"R13","50R 1%","R_0603_1608Metric",37.570000,-57.450000,180.000000,top
+"R14","50R 1%","R_0603_1608Metric",37.507500,-58.950000,180.000000,top
+"R15","270R","R_0603_1608Metric",31.200000,-83.400000,-90.000000,top
+"R16","270R","R_0603_1608Metric",52.600000,-83.400000,-90.000000,top
+"R17","50R 1%","R_0603_1608Metric",40.507500,-58.950000,0.000000,top
+"R18","50R 1%","R_0603_1608Metric",40.507500,-57.450000,0.000000,top
+"R19","0R","R_0603_1608Metric",34.650000,-73.831233,0.000000,top
+"R20","0.62R","R_0805_2012Metric",41.200000,-67.600000,90.000000,top
+"R21","100k","R_0603_1608Metric",33.800000,-67.600000,0.000000,top
+"R22","510R","R_0603_1608Metric",48.100000,-33.900000,180.000000,top
+"R23","1k","R_0603_1608Metric",43.175000,-62.200000,0.000000,top
+"R24","8.2k","R_0603_1608Metric",43.175000,-60.850000,180.000000,top
+"R25","0R","R_0603_1608Metric",31.100000,-73.000000,-90.000000,top
+"R26","33k 1%","R_0603_1608Metric",46.900000,-52.700000,90.000000,top
+"R27","10k 1%","R_0603_1608Metric",46.900000,-55.700000,90.000000,top
+"R28","1k","R_0603_1608Metric",50.800000,-35.100000,90.000000,top
+"R29","50R","R_0603_1608Metric",45.500000,-36.100000,90.000000,top
+"R30","50R","R_0603_1608Metric",44.000000,-36.100000,90.000000,top
+"R31","50R","R_0603_1608Metric",33.570000,-50.200000,0.000000,top
+"R32","50R","R_0603_1608Metric",34.250000,-38.500000,-90.000000,top
+"SW1","RESET","SW_Push_SPST_NO_Alps_SKRK",33.900000,-34.400000,180.000000,top
+"TP1","TP","TP-1MM",39.900000,-47.600000,0.000000,top
+"U1","ESP32-U4WDH","QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias",41.975000,-41.008333,180.000000,top
+"U2","Si3404","QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",38.300000,-70.606233,-90.000000,top
+"U3","LV2842XLVDDCR","SOT-23-6",46.700000,-60.500000,0.000000,top
+"U4","RTL8201F","QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",38.570000,-52.450000,90.000000,top
+"Y1","40MHz","Crystal_SMD_3225-4Pin_3.2x2.5mm",45.725000,-47.475000,0.000000,top
