@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "EspGateway-rescue")(type "Legacy")(uri "${KIPRJMOD}/EspGateway-rescue.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "EspGateway-rescue")(type "KiCad")(uri "${KIPRJMOD}/EspGateway-rescue.kicad_sym")(options "")(descr ""))
 )
