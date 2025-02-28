@@ -1,0 +1,33 @@
+#
+# Sample firmware for my ESP32 PoE ethernet dev board
+#
+# Only IDF v4 / Arduino 2.0 support the RTL PHY. See:
+# https://github.com/esphome/feature-requests/issues/1462
+#
+
+substitutions:
+  device_name: poe
+  device_description: ESP PoE Dev Board
+
+# https://esphome.io/components/esphome.html
+esphome:
+  name: ${device_name}
+  comment: ${device_description}
+
+esp32:
+  board: esp32dev
+
+ethernet:
+  type:     RTL8201
+  mdc_pin:  GPIO23
+  mdio_pin: GPIO18
+  clk_mode: GPIO0_OUT
+  phy_addr: 0
+
+# Enable Home Assistant API
+api:
+
+ota:
+  password: "REPLACEME"
+
+logger:
