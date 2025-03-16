@@ -6364,12 +6364,6 @@
 		(uuid "cad04383-a214-4b93-91a9-dfc37f34658a")
 	)
 	(junction
-		(at 184.15 189.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cd212fce-1538-402e-959c-6176cf174f5a")
-	)
-	(junction
 		(at 388.62 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6410,12 +6404,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4ce0d67-4973-46e2-aa71-11d32decabcb")
-	)
-	(junction
-		(at 198.12 189.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e50c80c5-80c4-46a3-8c1e-c9c3a71a0934")
 	)
 	(junction
 		(at 36.83 60.96)
@@ -7691,7 +7679,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 189.23) (xy 222.25 189.23)
+			(xy 213.36 189.23) (xy 245.11 189.23)
 		)
 		(stroke
 			(width 0)
@@ -10181,16 +10169,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 189.23) (xy 198.12 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5459b64-7749-49cb-8473-4539fa6882e3")
-	)
-	(wire
-		(pts
 			(xy 83.82 71.12) (xy 83.82 68.58)
 		)
 		(stroke
@@ -10288,16 +10266,6 @@
 			(type default)
 		)
 		(uuid "cc75e5ae-3348-4e7a-bd16-4df685ee47bd")
-	)
-	(wire
-		(pts
-			(xy 227.33 189.23) (xy 245.11 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc9223f3-d655-43d7-817f-534e5c1791f4")
 	)
 	(polyline
 		(pts
@@ -11309,6 +11277,16 @@
 			(justify left bottom)
 		)
 		(uuid "3d7d1092-224e-423b-99c2-7080891d1243")
+	)
+	(text "NOTE: CT Must NOT be connected directly to 3.3V\n(causes stability issues with some switches)"
+		(exclude_from_sim no)
+		(at 238.506 186.944 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3e43377d-d447-4ef6-bea3-5f667b0f7f5c")
 	)
 	(text "PD"
 		(exclude_from_sim no)
@@ -12622,7 +12600,7 @@
 		(uuid "56d2bc5d-fd72-4542-ab0f-053a5fd60efa")
 	)
 	(label "MDI0_CT"
-		(at 242.57 189.23 180)
+		(at 245.11 193.04 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22959,85 +22937,6 @@
 			(project "LAN-Module-PoE-Castellated"
 				(path "/d0fb0864-e79b-4bdc-8e8e-eed0cabe6d56"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EspGateway-rescue:R_Small_US-device-EspGateway-rescue")
-		(at 224.79 189.23 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e22df168-6afe-4fad-b3b4-74c1ef18090b")
-		(property "Reference" "R25"
-			(at 226.06 186.69 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0R"
-			(at 226.06 191.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 224.79 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 224.79 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 224.79 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Annotation" "DNP"
-			(at 228.6 187.96 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(bold yes)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fbb2e31f-4029-4b95-b7f9-368f3cda0706")
-		)
-		(pin "2"
-			(uuid "53148a97-7fcb-4e80-af5d-ba0b4d7b090c")
-		)
-		(instances
-			(project "LAN-Module-PoE-Castellated"
-				(path "/d0fb0864-e79b-4bdc-8e8e-eed0cabe6d56"
-					(reference "R25")
 					(unit 1)
 				)
 			)
